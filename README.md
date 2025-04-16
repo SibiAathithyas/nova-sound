@@ -32,3 +32,21 @@ Run the development server:
 npm run dev
 Your app will be available at http://localhost:3000.
 
+. Run the development server:
+    ```bash
+    npm run dev
+    ```
+    Your app will be running at `http://localhost:3000`.
+
+## Deployment
+- The project is deployed on Vercel: [nova-sound.vercel.app](https://nova-sound.vercel.app)
+
+## Demo
+Explore the app to experience a visually appealing music platform that categorizes artists based on genres with smooth, interactive carousels.
+
+## Contributing
+If you'd like to contribute to the project, feel free to fork it and make a pull request. You can contribute by adding more features, fixing bugs, or improving the design.
+
+## License
+This project is open-source and available under the [MIT License](LICENSE).
+
